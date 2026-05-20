@@ -7,7 +7,7 @@ To build a collaborative filtering recommendation system that predicts movie rat
 ### Source
 **MovieLens 20M (ML-20M)** - published by GroupLens Research, University of Minnesota.  
 Full dataset: ~20 million ratings, ~138,000 users, ~27,000 movies.  
-This project loads the first **10,000 rows** of each file for prototyping purposes and to manage memory/processing time.
+This project loads the first **10,000 rows** of each file for prototyping purposes and to manage memory/processing time
 
 ### Files Used
 | File | Columns | Description |
